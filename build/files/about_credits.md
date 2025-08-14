@@ -5,3 +5,11 @@ _The Digital 'Anon'_ was made possible by a Leverhulme Trust Early Career Fellow
 The material in _The Digital 'Anon'_ is held at the New York Public Library's Berg Collection, and I am grateful to curatorial staff at the NYPL and to the imaging and permissions teams for their generosity and support. This project would not have been possible without the support of the Estate of Virginia Woolf, administered by the Society of Authors — my thanks especially to Sarah Baxter for her help in securing permissions.
 
 _The Digital 'Anon'_ is built using [Necturus Compact](https://github.com/eXtant-CMG/Necturus-Viewer-Compact), an open-source XML viewer developed by Nooshin Shahidzadeh Asadi (University of Antwerp). I am immeasurably grateful to Nooshin for her generosity with both time and expertise, and to the Center for Manuscript Genetics at the University of Antwerp for their support.
+
+___
+
+**Necturus Compact is available under the terms of the [MIT License](https://github.com/eXtant-CMG/Necturus-Viewer-Compact/blob/main/LICENSE).**
+
+**Transcriptions and editorial material © Joshua Phillips, 2025**
+
+**Virginia Woolf material © The Estate of Virginia Woolf, 2025. Reproduced by permission of the Society of Authors as the literary representative of the estate of Virginia Woolf.**
